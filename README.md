@@ -12,5 +12,5 @@
 </p>
  -->
  
-## Most used languages:
+## My Github Status:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgefortunatof&theme=tokyonight)
