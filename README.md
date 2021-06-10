@@ -5,12 +5,31 @@
 - 🌱 I’m currently learning: Next.js, Expo and Adonis.js
 - 📫 How to reach me: jorgefortunatof@gmail.com
 
-<!-- ## 🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 <p style="text-align: center;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/typescript-image.jpg" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/javascript-image.jpg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+
+ <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/html-image.jpg" alt="Html" height="40" style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/css-image.jpg" alt="Css" height="40" style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/node-image.jpg" alt="Node" height="40" style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/expo-image.jpg" alt="Expo" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/react-image.jpg" alt="React" height="40" style="vertical-align:top; margin:4px">
+
+  <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/next-image.jpg" alt="Next" height="40" style="vertical-align:top; margin:4px">
+ 
+   <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/vscode-image.jpg" alt="Vscode" height="40" style="vertical-align:top; margin:4px">
+ 
+    <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/linux-image.jpg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+
 </p>
- -->
+
  
 ## My Github Status:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgefortunatof&theme=tokyonight)
