@@ -7,6 +7,7 @@
 - 📫 How to reach me: jorgefortunatof@gmail.com
 
 ## 💻 Technologies and Tools:
+<div>
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/typescript-image.jpg" alt="Typescript" height="50" style="vertical-align:top; margin:6px">
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/javascript-image.jpg" alt="Javascript" height="50" style="vertical-align:top; margin:6px">
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/html-image.jpg" alt="Html" height="50" style="vertical-align:top; margin:6px">
@@ -17,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/next-image.jpg" alt="Next" height="50" style="vertical-align:top; margin:6px">
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/vscode-image.jpg" alt="Vscode" height="50" style="vertical-align:top; margin:6px">
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/linux-image.jpg" alt="Linux" height="50" style="vertical-align:top; margin:6px">
-
+</div>
  
 ## ⚡️ Github Status:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgefortunatof&theme=tokyonight)
