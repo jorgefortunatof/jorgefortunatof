@@ -21,8 +21,8 @@
 </div>
  
 ## ⚡️ Github Status:
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jorgefortunatof&show_icons=true&theme=radical&line_height=40)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgefortunatof&show_icons=true&theme=radical)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jorgefortunatof&show_icons=true&theme=midnight-purple&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgefortunatof&theme=midnight-purple)
 
 
 
