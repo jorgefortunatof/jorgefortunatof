@@ -6,26 +6,26 @@
 - 📫 How to reach me: jorgefortunatof@gmail.com
 
 ## 🧰 Languages and Tools:
-<p style="display: block; text-align: center;">
-<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/typescript-image.jpg" alt="Typescript" height="60" style="vertical-align:top; margin:4px">
+<p style="text-align: center;">
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/typescript-image.jpg" alt="Typescript" height="60" style="vertical-align:top; margin:6px">
 
-<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/javascript-image.jpg" alt="Javascript" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/javascript-image.jpg" alt="Javascript" height="60" style="vertical-align:top; margin:6px">
 
-<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/html-image.jpg" alt="Html" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/html-image.jpg" alt="Html" height="60" style="vertical-align:top; margin:6px">
 
-<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/css-image.jpg" alt="Css" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/css-image.jpg" alt="Css" height="60" style="vertical-align:top; margin:6px">
 
-<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/node-image.jpg" alt="Node" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/node-image.jpg" alt="Node" height="60" style="vertical-align:top; margin:6px">
 
-<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/expo-image.jpg" alt="Expo" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/expo-image.jpg" alt="Expo" height="60" style="vertical-align:top; margin:6px">
  
-<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/react-image.jpg" alt="React" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/react-image.jpg" alt="React" height="60" style="vertical-align:top; margin:6px">
 
-<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/next-image.jpg" alt="Next" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/next-image.jpg" alt="Next" height="60" style="vertical-align:top; margin:6px">
  
-<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/vscode-image.jpg" alt="Vscode" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/vscode-image.jpg" alt="Vscode" height="60" style="vertical-align:top; margin:6px">
  
-<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/linux-image.jpg" alt="Linux" height="60" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/linux-image.jpg" alt="Linux" height="60" style="vertical-align:top; margin:6px">
 </p>
 
  
