@@ -1,8 +1,9 @@
 ## Hi there, I´m Jorge 👋!
 
-- 👨🏻‍💻 I’m currently working on: [SENAI/SC - Serviço Nacional de Aprendizagem Industrial](https://www.linkedin.com/school/senai-sc/mycompany/) as a Mobile Developer
-- 📚 I’m currently pursuing a degree in Computer Science at [Unisul/SC](https://www.unisul.br/)
-- 🌱 I’m currently learning: Next.js, Expo and Adonis.js
+- 👨🏻‍💻 Working on: [SENAI/SC - Serviço Nacional de Aprendizagem Industrial](https://www.linkedin.com/school/senai-sc/mycompany/) as a Mobile Developer
+- 👤 Owner of [@cafeparaprogramar](http://instagram.com/cafeparaprogramar)
+- 📚 Currently pursuing a degree in Computer Science at [Unisul/SC](https://www.unisul.br/)
+- 🌱 Learning: Next.js, Expo and Adonis.js
 - 📫 How to reach me: jorgefortunatof@gmail.com
 
 ## 🧰 Languages and Tools:
@@ -30,6 +31,7 @@
 
  
 ## ⚡️ Github Status:
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jorgefortunatof&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgefortunatof&theme=tokyonight)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jorgefortunatof&theme=tokyonight)
+
 
