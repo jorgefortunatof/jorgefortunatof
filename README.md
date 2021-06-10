@@ -29,5 +29,7 @@
 </div>
 
  
-## My Github Status:
+## ⚡️ Github Status:
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jorgefortunatof&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgefortunatof&theme=tokyonight)
+
