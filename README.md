@@ -6,7 +6,7 @@
 - 🌱 Learning: Next.js, Expo and Adonis.js
 - 📫 How to reach me: jorgefortunatof@gmail.com
 
-## 🧰 Languages and Tools:
+## 💻 Technologies and Tools:
 <div style="text-align:center;">
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/typescript-image.jpg" alt="Typescript" height="50" style="vertical-align:top; margin:6px">
 
