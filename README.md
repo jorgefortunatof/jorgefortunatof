@@ -9,23 +9,14 @@
 ## 💻 Technologies and Tools:
 <div style="text-align:center;">
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/typescript-image.jpg" alt="Typescript" height="50" style="vertical-align:top; margin:6px">
-
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/javascript-image.jpg" alt="Javascript" height="50" style="vertical-align:top; margin:6px">
-
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/html-image.jpg" alt="Html" height="50" style="vertical-align:top; margin:6px">
-
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/css-image.jpg" alt="Css" height="50" style="vertical-align:top; margin:6px">
-
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/node-image.jpg" alt="Node" height="50" style="vertical-align:top; margin:6px">
-
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/expo-image.jpg" alt="Expo" height="50" style="vertical-align:top; margin:6px">
- 
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/react-image.jpg" alt="React" height="50" style="vertical-align:top; margin:6px">
-
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/next-image.jpg" alt="Next" height="50" style="vertical-align:top; margin:6px">
- 
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/vscode-image.jpg" alt="Vscode" height="50" style="vertical-align:top; margin:6px">
- 
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/linux-image.jpg" alt="Linux" height="50" style="vertical-align:top; margin:6px">
 </div>
 
