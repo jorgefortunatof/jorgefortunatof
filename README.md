@@ -21,7 +21,8 @@
 </div>
  
 ## ⚡️ Github Status:
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jorgefortunatof&theme=tokyonight&line_height=30)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgefortunatof&theme=tokyonight)
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=jorgefortunatof&theme=tokyonight&line_height=40)
+
 
 
