@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/react-image.jpg" alt="React" height="50" style="vertical-align:top; margin:6px;border-radius: 5px;">
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/next-image.jpg" alt="Next" height="50" style="vertical-align:top; margin:6px;border-radius: 5px;">
 <img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/vscode-image.jpg" alt="Vscode" height="50" style="vertical-align:top; margin:6px;border-radius: 5px;">
-<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/linux-image.jpg" alt="Linux" height="50" style="vertical-align:top; margin:6px;border-radius: 5px;">
+<img src="https://raw.githubusercontent.com/jorgefortunatof/jorgefortunatof/main/assets/linux-image.jpg" alt="Linux" height="50" style="vertical-align:top; margin:6px;border-radius: 5px">
 </div>
  
 ## ⚡️ Github Status:
