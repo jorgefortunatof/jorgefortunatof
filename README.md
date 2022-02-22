@@ -21,7 +21,7 @@
 - 👨🏻‍💻 Working on [SENAI/SC - Serviço Nacional de Aprendizagem Industrial](https://www.linkedin.com/school/senai-sc/mycompany/) as a Mobile Developer
 - 👤 Owner of [@cafeparaprogramar](http://instagram.com/cafeparaprogramar)
 - 📚 Currently pursuing a degree in Computer Science at [Unisul/SC](https://www.unisul.br/)
-- 🌱 Learning: Next.js, Expo and Adonis.js
+- 🌱 Learning: Next.js
 
 ## 💻 Technologies and Tools:
 <div>
